@@ -3,8 +3,8 @@ require 'vendor/autoload.php';
 use AfricasTalking\SDK\AfricasTalking;
 
 // Set your app credentials
-$username = "amaina";
-$apiKey = "75c2402ce9d4209145fba99c7d6cb44d8d7ced0451059dceb15da45bb8c2541e";
+$username = "username";
+$apiKey = "apikey";
 
 
 // Initialize the SDK
